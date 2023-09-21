@@ -8,5 +8,4 @@
 
 <h3 align="center"> Baekjoon Rank </h3>
 
-<p align="center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin100my)](https://solved.ac/kevin100my/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin100my)](https://solved.ac/kevin100my/)
