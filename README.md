@@ -12,8 +12,8 @@
 
 <h3> Currently </h3>
     <ul>
-        <li> Learning Data Structures and Algorithms on Baekjoon Online Judge </li>
-        <li> Learning Machine Learning on Kaggle </li>
+        <li> Learning Data Structures and Algorithms with Baekjoon Online Judge </li>
+        <li> Learning Machine Learning with Kaggle </li>
         <li> Writing articles on Wordpress </li>
     </ul>
 
